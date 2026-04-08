@@ -1,0 +1,8 @@
+# env file
+.env
+
+#pycahce 
+__pycache__
+
+# venv file 
+.venv
