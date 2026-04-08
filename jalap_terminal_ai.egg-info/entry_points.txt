@@ -1,0 +1,2 @@
+[console_scripts]
+jalap = jalap_terminal_ai.__main__:main
